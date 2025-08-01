@@ -33,7 +33,7 @@ body {
       <div class="card-body">
         <div class="md-form">
           <div class="col-md-11">
-          <textarea type="text" style="text-align: center; background-color: rgba(238, 6, 6, 0.301);color:white ; maxlength="700" placeholder="Enter Cards Here";" id="lista" class="md-textarea form-control" rows="4" placeholder="Enter Cards"></textarea>
+          <textarea type="text" style="text-align: center; background-color: rgba(238, 6, 6, 0.301); color:white;" maxlength="700" placeholder="Enter Cards Here" id="lista" class="md-textarea form-control" rows="4"></textarea>
             &nbsp;
           </div>
         </div>
